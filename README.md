@@ -1,0 +1,1 @@
+# Finance Analytic Releases`nRepositorio exclusivo para APK preliminares.
